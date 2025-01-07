@@ -1,0 +1,41 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Python package installer caches
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Custom ignores
+*.tmp
+*.bak
+
+# Secret or configuration files
+.env
+config.json
